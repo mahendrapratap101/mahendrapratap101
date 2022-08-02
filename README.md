@@ -5,8 +5,8 @@
 [![Website Badge]
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mahendra-yellow)](https://stackoverflow.com/users/19611543/mahendra-pratap)
 
-I'm
-Full Stack Developement Learner
+I'm a
+Full Stack Development Learner
 
 
 ![Visitor Count](https://profile-counter.glitch.me/mahendrapratap101/count.svg)
