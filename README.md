@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 [![YouTube Badge]]
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/mahendra-pratap-28b5a410b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mahendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahendra-pratap-28b5a410b/)](https://www.linkedin.com/in/mahendra-pratap-28b5a410b/)
 [![Website Badge]
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19611543/mahendra-pratap)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Mahendra-yellow)](https://stackoverflow.com/users/19611543/mahendra-pratap)
 
 I'm
 Full Stack Solution Architect
